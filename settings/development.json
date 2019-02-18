@@ -1,0 +1,14 @@
+{
+  "TEST_DATA": [{
+    "bot": {
+      "address": "127.0.0.1",
+      "port": "10011",
+      "serverId": "1"
+    },
+    "user": {
+      "username": "serveradmin",
+      "password": "test"
+    },
+    "server": "tibiaRL"
+  }]
+}
