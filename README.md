@@ -17,7 +17,7 @@ Fork this, start this, play with the code, use it on your own teamspeak, put som
 #### Install
 
 ```bash
-git clone https://github.com/ethkat/tibia-ts3-teamspeakbot.git
+git clone https://github.com/zorogoki/ts3bot.git
 yarn install
 ```
 
