@@ -42,8 +42,8 @@ export const tibiaRlGetPlayersOnline = new ValidatedMethod({
   },
 });
 
-export const tibiaGetPlayerInformation = new ValidatedMethod({
-  name: 'tibia.get.player.information',
+export const tibiaRlGetPlayerInformation = new ValidatedMethod({
+  name: 'tibiaRl.get.player.information',
   validate: new SimpleSchema({
     name: {
       type: String,
