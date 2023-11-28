@@ -1,14 +1,14 @@
 {
   "TEST_DATA": [{
     "bot": {
-      "address": "127.0.0.1",
-      "port": "10011",
-      "serverId": "1"
+      "address": "51.79.173.208",
+      "port": "9987",
+      "serverId": "0304fc55-f401-4452-a719-44d7135234d1"
     },
     "user": {
       "username": "serveradmin",
-      "password": "MDR4IBXm"
+      "password": "ifSsSm8w"
     },
-    "server": "tibiaRL"
+    "server": "skylife"
   }]
 }
